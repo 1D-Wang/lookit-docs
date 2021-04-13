@@ -206,6 +206,7 @@ List of tutorial participants
 - Yiran Chen (University of Pennsylvania)
 - Erica Wojcik (Skidmore College)
 - Stacy Wang (University of British Columbia) 
+- Yuewen Wang (University of California, San Diego)
 
 .. _Github issues overview:
 
